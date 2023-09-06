@@ -48,11 +48,9 @@ This is a java point of sales application system that allows you to select and a
 
 ## Contributing
 
-Explain how others can contribute to the project, whether it's through bug reporting, feature requests, or code contributions.
+Contributions are welcome! If you find any issues or have ideas for improvements, feel free to submit a pull request.
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
-
+This project is licensed under the MIT License .
 
